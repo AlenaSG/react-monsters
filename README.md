@@ -1,3 +1,5 @@
+See the app at [https://alenasg.github.io/react-monsters/](https://alenasg.github.io/react-monsters/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
